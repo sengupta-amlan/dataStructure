@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1aa89dd-32d6-4a5e-a0e1-b9107be899b2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YNXxVAZ5U5pnSBYlPIY6azVRpf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PRACTICE_DS" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BinarySearchTreeMain">
+    <configuration name="BinarySearchTreeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearchTreeMain" />
+      <module name="Tree" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinaryTreeLinkedListMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinaryTreeLinkedListMain" />
+      <module name="Tree" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashMapRank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashMapRank" />
+      <module name="Array" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashingOfMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashingOfMap" />
+      <module name="Array" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecursionSeven" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecursionSeven" />
+      <module name="Recursion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="recursionStringPermute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursionStringPermute" />
+      <module name="Recursion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.RecursionSeven" />
+      <item itemvalue="Application.HashMapRank" />
+      <item itemvalue="Application.HashingOfMap" />
+      <item itemvalue="Application.recursionStringPermute" />
+      <item itemvalue="Application.BinaryTreeLinkedListMain" />
+      <item itemvalue="Application.BinarySearchTreeMain" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BinarySearchTreeMain" />
+        <item itemvalue="Application.BinaryTreeLinkedListMain" />
+        <item itemvalue="Application.HashMapRank" />
+        <item itemvalue="Application.HashingOfMap" />
+        <item itemvalue="Application.recursionStringPermute" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1aa89dd-32d6-4a5e-a0e1-b9107be899b2" name="Default Changelist" comment="" />
+      <created>1582784271605</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582784271605</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="442" y="142" key="#Project_Structure" timestamp="1586417991377">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="442" y="142" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1586417991377" />
+    <state x="552" y="179" key="#Project_Structure/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1583147301608" />
+    <state x="612" y="182" key="#com.intellij.ide.util.MemberChooser" timestamp="1586418132722">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="612" y="182" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1586418132722" />
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1583210606089" />
+    <state x="2685" y="230" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583748998644" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583151398859">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1583151398859" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1583429909429">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583429909429" />
+    <state width="1493" height="230" key="GridCell.Tab.0.bottom" timestamp="1586411676761">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="230" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586411676761" />
+    <state width="1877" height="322" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1584007648880" />
+    <state width="1877" height="323" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583753269876" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/3840.0.1920.1030/1920.0.1920.1040/0.0.1536.824@3840.0.1920.1030" timestamp="1582802446291" />
+    <state width="1493" height="230" key="GridCell.Tab.0.center" timestamp="1586411676761">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="230" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586411676761" />
+    <state width="1877" height="322" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1584007648880" />
+    <state width="1877" height="323" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583753269876" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/3840.0.1920.1030/1920.0.1920.1040/0.0.1536.824@3840.0.1920.1030" timestamp="1582802446291" />
+    <state width="1493" height="230" key="GridCell.Tab.0.left" timestamp="1586411676761">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="230" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586411676761" />
+    <state width="1877" height="322" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1584007648880" />
+    <state width="1877" height="323" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583753269876" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/3840.0.1920.1030/1920.0.1920.1040/0.0.1536.824@3840.0.1920.1030" timestamp="1582802446291" />
+    <state width="1493" height="230" key="GridCell.Tab.0.right" timestamp="1586411676761">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="230" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586411676761" />
+    <state width="1877" height="322" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1584007648880" />
+    <state width="1877" height="323" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583753269876" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/3840.0.1920.1030/1920.0.1920.1040/0.0.1536.824@3840.0.1920.1030" timestamp="1582802446291" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1583146186696">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1583146186696" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1583146186696">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1583146186696" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1583146186696">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1583146186696" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1583146186696">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1583146186696" />
+    <state x="463" y="166" key="SettingsEditor" timestamp="1582784376450">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="166" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1582784376450" />
+    <state x="534" y="276" key="com.intellij.ide.util.TipDialog" timestamp="1586409486458">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="534" y="276" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586409486458" />
+    <state x="-1252" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1582879460688" />
+    <state x="667" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1584003794660" />
+    <state x="2588" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583750424956" />
+    <state x="274" y="67" key="new project wizard" timestamp="1586417982645">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="274" y="67" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1586417982645" />
+    <state x="-1578" y="141" key="new project wizard/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1582879777111" />
+    <state x="342" y="141" key="new project wizard/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1583147293837" />
+    <state x="2263" y="85" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583748120824" />
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1586333596345">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1586333596345" />
+  </component>
+</project>
